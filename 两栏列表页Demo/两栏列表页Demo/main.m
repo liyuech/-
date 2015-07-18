@@ -2,7 +2,7 @@
 //  main.m
 //  两栏列表页Demo
 //
-//  Created by haodf on 15/7/16.
+//  Created by lyc on 15/7/16.
 //  Copyright (c) 2015年 lyc. All rights reserved.
 //
 
