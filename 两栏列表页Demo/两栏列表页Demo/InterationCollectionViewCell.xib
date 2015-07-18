@@ -12,7 +12,7 @@
             <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                 <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
                 <subviews>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="doctor.png" translatesAutoresizingMaskIntoConstraints="NO" id="Qak-vd-WNO">
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="boy.png" translatesAutoresizingMaskIntoConstraints="NO" id="Qak-vd-WNO">
                         <rect key="frame" x="15" y="10" width="50" height="40"/>
                         <constraints>
                             <constraint firstAttribute="width" constant="50" id="QaV-zx-wlc"/>
@@ -44,6 +44,6 @@
         </collectionViewCell>
     </objects>
     <resources>
-        <image name="doctor.png" width="50" height="50"/>
+        <image name="boy.png" width="330" height="322"/>
     </resources>
 </document>
