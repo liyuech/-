@@ -25,7 +25,7 @@
 @property (strong, nonatomic) UIButton *rightButton;
 
 #pragma mark ChooseView delegate
-@property (strong, nonatomic) id <ChooseViewDelegate> delegate;
+@property (weak, nonatomic) id <ChooseViewDelegate> delegate;
 
 #pragma mark changes button background color
 - (void)changesBackgroundColorForButton:(UIButton *)button;
